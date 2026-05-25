@@ -1,6 +1,6 @@
 ##  About me
 ![Master's in Aerospace Engineering](https://img.shields.io/badge/M.Sc.-Aerospace%20Propulsion-blue)
-![Bachelor's in Mechanical Engineering](https://img.shields.io/badge/M.Sc.-Aerospace%20Propulsion-blue)
+![Bachelor's in Mechanical Engineering](https://img.shields.io/badge/B.Sc.-Mechanical%20Engineering-blue)
 
 I’m a master’s student in **Aero Propulsion** with a bachelor’s in **Mechanical Engineering**.  
 My academic work focuses on **applied engineering problems** and emerging technologies with industrial relevance — bridging the gap between research and real-world propulsion and energy recovery systems.
